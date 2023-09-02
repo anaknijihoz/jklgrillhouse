@@ -1,0 +1,7 @@
+User-agent: * 
+Crawl-Delay: 20
+
+Allow: /
+
+
+Sitemap: http://jklcarwashandgrill.com/sitemap.xml
